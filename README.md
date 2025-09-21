@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/soumojit-dev/Numpy-Foundations/image?custom_language=Python&amp;description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick+Wall&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">This is an extensive repository that effectively breaks down complex concepts in NumPy and data science into manageable practical lessons. Covering everything from basic array creation to complex operations real-world dataset analysis and visualization it equips learners with the tools and confidence needed to embark on data science projects.</p>
+<p id="description">This is an extensive repository that effectively breaks down complex concepts in NumPy and data science into manageable practical lessons. Covering everything from basic array creation to complex operations real-world dataset analysis and visualization it equips learners with the tools and confidence needed to embark on data science projects & AIML.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Numpy-Python-Blue?style=flat-square" alt="shields"><img src="https://img.shields.io/badge/Jupter%20Notebook-orange?style=flat-square" alt="shields"></p>
 
@@ -12,7 +12,7 @@
 
 Here're some of the project's best features:
 
-*   Numpy Foundations is covered in 4 phases
+*   Numpy Foundations covered in 4 phases 
 *   2 real world basic projects for concept clarity
 
   
@@ -22,6 +22,7 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Numpy
+*   Matlotlib
 *   Jupyter Notebook
 *   VS Code
 
