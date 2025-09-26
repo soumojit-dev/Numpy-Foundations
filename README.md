@@ -12,7 +12,8 @@
 
 Here're some of the project's best features:
 
-*   Numpy Foundations covered in 4 phases 
+*   Numpy Foundations covered in 4 phases
+*   Rest Phases (phase-5 onwards) for extra informations 
 *   2 real world basic projects for concept clarity
 
   
@@ -28,7 +29,7 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the MIT
+This repo is licensed under the MIT
 
 <h2>💖Like my work?</h2>
 
