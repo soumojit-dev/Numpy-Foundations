@@ -13,7 +13,7 @@
 Here're some of the project's best features:
 
 *   Numpy Foundations covered in 4 phases
-*   Rest of the Phases (phase-5 & phase-6) are for extra informations 
+*   Rest of the Phases (phase-5 & phase-6) are for extra functionalities
 *   2 real world basic projects for concept clarity
 
   
